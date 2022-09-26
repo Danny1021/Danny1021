@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danny1021
+- 👋 Hi, I’m Daniel Rodriguez-Florido
 - 👀 I’m interested in competitive programming and teaching!
 - 📫 How to reach me: Email me at dany.rfp@gmail.com!
 
